@@ -1,15 +1,15 @@
 # Recursos-de-Bioinformatica 
-Una lista de recursos para Bioinformática con contenido en español y en inglés.
+Una lista de recursos para Bioinformática con contenido en español y en inglés. :dna::computer:
 
 
 
 # Argentina
 
 [Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257)
-Versión traducida del paper original[Biología computacional en Argentina](http://www.bioinformaticos.com.ar/biologia-computacional-en-argentina/)
+[Biología computacional en Argentina](http://www.bioinformaticos.com.ar/biologia-computacional-en-argentina/) (Versión traducida del paper original)
 
 
-Donde estudiar? 
+## Donde estudiar? 
 
 
 
