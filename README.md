@@ -6,6 +6,7 @@ Una lista de recursos para Bioinformática con contenido en español y en inglé
 # Argentina
 
 [Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257)
+
 [Biología computacional en Argentina](http://www.bioinformaticos.com.ar/biologia-computacional-en-argentina/) (Versión traducida del paper original)
 
 
