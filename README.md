@@ -28,6 +28,11 @@ Una lista de recursos para Bioinformática con contenido en español y en inglé
 * UNNOVA
   * [Maestría en Bioinformática y Biología de Sistemas](http://www.unnoba.edu.ar/posgrado/carreras/maestrias/maestria-en-bioinformatica-y-biologia-de-sistemas-2018/)
 
+## Asociaciones
+
+[Asociación Argentina de Bioinformática y Biología Computacional](http://a2b2c.org.ar/)
+[RSG-Argentina](https://rsg-argentina.netlify.app/) Grupo de Estudiantes de Bioinformática y Biología Computacional de Argentina 
+
 
 # Chile
 
