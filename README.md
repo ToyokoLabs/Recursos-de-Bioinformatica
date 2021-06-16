@@ -15,8 +15,18 @@ Una lista de recursos para Bioinformática con contenido en español y en inglé
 * Universidad Nacional de Quilmes
   * [Licenciatura en Bioinformática](http://www.unq.edu.ar/carreras/73-licenciatura-en-bioinform%C3%A1tica.php)
   * [Maestría en Bioinformática y Biología de Sistemas](http://www.unq.edu.ar/carreras/54-maestr%C3%ADa-en-bioinform%C3%A1tica-y-biolog%C3%ADa-de-sistemas.php)
-
-
+* UNER
+  * [Licenciatura en Bioinformática](http://ingenieria.uner.edu.ar/index.php/carreras-de-grado/bioinformatica)
+* UADE
+  * [Licenciatura en Bioinformática](https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/licenciatura-en-bioinformatica/)
+* Universidad Católica de Córdoba
+  * [Licenciatura en Bioinformática](https://www.ucc.edu.ar/carreras/bioinformatica) Ofrece un  título intermedio de Técnico/a en Bioinformática con una duración de  3 años.
+* UNRaf
+  * [Licenciatura en Bioinformática](https://www.unraf.edu.ar/index.php/carrerasunraf-2/carreras-menu-2/1567-carrera-15)
+* Universidad Favaloro
+  * [Diplomatura en Bioinformática](https://www.favaloro.edu.ar/informacion-eftp/ftpBIOIN_diplomatura-en-bioinformatica/)
+* UNNOVA
+  * [Maestría en Bioinformática y Biología de Sistemas](http://www.unnoba.edu.ar/posgrado/carreras/maestrias/maestria-en-bioinformatica-y-biologia-de-sistemas-2018/)
 
 
 # Chile
