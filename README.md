@@ -11,12 +11,10 @@ Una lista de recursos para Bioinformática con contenido en español y en inglé
 
 ## Donde estudiar? 
 
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
+* Universidad Nacional de Quilmes
+  * [Licenciatura en Bioinformática](http://www.unq.edu.ar/carreras/73-licenciatura-en-bioinform%C3%A1tica.php)
+  * [Maestría en Bioinformática y Biología de Sistemas](http://www.unq.edu.ar/carreras/54-maestr%C3%ADa-en-bioinform%C3%A1tica-y-biolog%C3%ADa-de-sistemas.php)
 
-
-Universidad Nacional de Quilmes 
-Licenciatura en Bioinformática
 
 
 
