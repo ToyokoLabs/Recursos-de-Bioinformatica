@@ -1,5 +1,5 @@
 # Recursos-de-Bioinformatica 
-Una lista de recursos para Bioinformática con contenido en español y en inglés. :dna::computer:
+Una lista de recursos para Bioinformática con contenido en español y en inglés. :dna: :computer:
 
 
 
@@ -11,6 +11,12 @@ Una lista de recursos para Bioinformática con contenido en español y en inglé
 
 ## Donde estudiar? 
 
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+
+
+Universidad Nacional de Quilmes 
+Licenciatura en Bioinformática
 
 
 
