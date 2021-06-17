@@ -10,6 +10,23 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # Cursos 
 
+## Principiantes
+
+[Biology Meets Programming: Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics) En inglés, subtitulos en español.
+
+[Whole genome sequencing of bacterial genomes - tools and applications](https://www.coursera.org/learn/wgs-bacteria) En inglés, subtitulos en español. 
+
+
+## Intermedio
+## Avanzado
+
+[Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) Herramientas y técnicas para trabajar con datos de secuenciación. En inglés, subtitulos en español.
+
+## Otros cursos 
+
+
+
+
 # Argentina
 
 [Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257)
