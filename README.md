@@ -5,6 +5,9 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-neuro 🧠 ](https://github.com/GEJ1/Recursos-neuro)
 
+
+
+
 # Cursos 
 
 # Argentina
@@ -53,6 +56,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 # Colombia
 
 [Computational Biology in Colombia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000535)
+
+## Grupos de investigación
 
 ## Asociaciones
 
