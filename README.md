@@ -48,6 +48,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 ## Asociaciones
 
+[Agrupación Chilena de Bioinformática - RSG Chile](http://rsg-chile.iscbsc.org/?fbclid=IwAR3IH2vTpGmAVMJhl2gtlChn2YS1X9q12ZHiRdA4a4ujJdcFXXERoGPL588)
+
 # Colombia
 
 [Computational Biology in Colombia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000535)
@@ -56,6 +58,17 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Grupo de estudiantes en Bioinformática y Biología Computacional de Colombia](http://rsg-colombia.iscbsc.org/)
 
+# México 
+
+[Bioinformatics in Mexico: A diagnostic from the academic perspective and recommendations for a public policy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243531#references)
+
+## Grupos de investigación 
+
+## Asociaciones
+
+[RSG - México](http://rsg-mexico.iscbsc.org/#page-top)
+
+[Comunidad de Desarrolladores de Software en Bioinformática (CDSB)](https://comunidadbioinfo.github.io/es/#about)
 
 
 
