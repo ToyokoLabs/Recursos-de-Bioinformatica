@@ -3,6 +3,9 @@ Una lista de recursos para Bioinformática con contenido en español y en inglé
 
 
 
+
+
+
 # Argentina
 
 [Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257)
@@ -28,15 +31,29 @@ Una lista de recursos para Bioinformática con contenido en español y en inglé
 * UNNOVA
   * [Maestría en Bioinformática y Biología de Sistemas](http://www.unnoba.edu.ar/posgrado/carreras/maestrias/maestria-en-bioinformatica-y-biologia-de-sistemas-2018/)
 
+## Grupos de investigación 
+
+
+
 ## Asociaciones
 
 [Asociación Argentina de Bioinformática y Biología Computacional](http://a2b2c.org.ar/)
-[RSG-Argentina](https://rsg-argentina.netlify.app/) Grupo de Estudiantes de Bioinformática y Biología Computacional de Argentina 
 
+[RSG-Argentina](https://rsg-argentina.netlify.app/) Grupo de Estudiantes de Bioinformática y Biología Computacional de Argentina 
 
 # Chile
 
+## Grupos de investigación 
 
+## Asociaciones
+
+# Colombia
+
+[Computational Biology in Colombia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000535)
+
+## Asociaciones
+
+[Grupo de estudiantes en Bioinformática y Biología Computacional de Colombia](http://rsg-colombia.iscbsc.org/)
 
 
 
