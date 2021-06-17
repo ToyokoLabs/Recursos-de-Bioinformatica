@@ -24,9 +24,15 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics) Tiene una prueba gratis (free trail) por 7 días. En inglés, subtitulos en español. 
 
+[Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools) Tiene una prueba gratis (free trail) por 7 días. En inglés, subtitulos en español.  
+
 [Bacterial Bioinformatics](https://www.coursera.org/learn/informatics) En inglés, subtitulos en español.
 
 ## Avanzado
+
+[Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor) Tiene una prueba gratis (free trail) por 7 días. En inglés, subtitulos en español.  
+
+[Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing) Tiene una prueba gratis (free trail) por 7 días. En inglés, subtitulos en español.  
 
 [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) Herramientas y técnicas para trabajar con datos de secuenciación. En inglés, subtitulos en español.
 
@@ -39,6 +45,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 [Laboratorio de datos](http://materias.df.uba.ar/lda2021c1/171-2/) Una introducción a los aspectos prácticos de la Ciencia de Datos. 
 
 [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) Tiene una prueba gratis (free trail) por 7 días. En inglés, subtitulos en español. 
+
+[Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) En inglés, subtitulos en español.
 
 # Argentina
 
