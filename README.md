@@ -85,7 +85,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # Colombia
 
-[Computational Biology in Colombia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000535)
+[Computational Biology in Colombia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000535) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en Colombia.
 
 ## Grupos de investigación
 
@@ -95,7 +95,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # México 
 
-[Bioinformatics in Mexico: A diagnostic from the academic perspective and recommendations for a public policy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243531#references)
+[Bioinformatics in Mexico: A diagnostic from the academic perspective and recommendations for a public policy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243531#references) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en México.
 
 ## Grupos de investigación 
 
