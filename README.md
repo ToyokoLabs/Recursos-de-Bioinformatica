@@ -42,7 +42,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # Argentina
 
-[Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257)
+[Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en la Argentina. 
 
 [Biología computacional en Argentina](http://www.bioinformaticos.com.ar/biologia-computacional-en-argentina/) (Versión traducida del paper original)
 
