@@ -1,9 +1,9 @@
 # Recursos-de-Bioinformatica 
 Una lista de recursos para Bioinformática con contenido en español y en inglés. :dna: :computer:
 
+Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella ⭐ 
 
-
-
+Si te dedicas o estas interesado en Neurociencias visita el repo [Recursos-neuro 🧠 ](https://github.com/GEJ1/Recursos-neuro)
 
 
 # Argentina
