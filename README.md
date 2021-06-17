@@ -1,5 +1,5 @@
-# Recursos-de-Bioinformatica 
-Una lista de recursos para Bioinformática con contenido en español y en inglés. :dna: :computer:
+# Recursos-de-Bioinformatica  :dna: :computer:
+Una lista de recursos para Bioinformática con contenido en español y en inglés. 
 
 Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella ⭐ 
 
