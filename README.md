@@ -75,6 +75,16 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 ## Grupos de investigación 
 
+[Bioinformática Estructural](https://www.leloir.org.ar/marinobuslje/) Cristina Marino Buslje - Fundación Instituto Leloir.
+
+[SBG Structural Bioinformatics Group](http://ufq.unq.edu.ar/sbg/index.html) Gustavo Parisi - Universidad Nacional de Quilmes. 
+
+[Laboratorio de Estructura Plasticidad y Función de Proteínas](http://www.iib.unsam.edu.ar/labs.php?sede=1&lab=24) Lucia Chemes - IIB Instituto de Investigaciones Biotecnológicas
+
+[Laboratorio de Genómica y Bioinformática](http://www.iib.unsam.edu.ar/labs.php?sede=1&lab=11) Fernán Agüero - IIB Instituto de Investigaciones Biotecnológicas  
+
+[Immunological bioinformatics – Prediction of host pathogen interactions](http://www.iib.unsam.edu.ar/labs.php?sede=1&lab=12) Morten Nielsen - IIB Instituto de Investigaciones Biotecnológicas
+
 
 
 ## Asociaciones
