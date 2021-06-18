@@ -85,7 +85,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Immunological bioinformatics – Prediction of host pathogen interactions](http://www.iib.unsam.edu.ar/labs.php?sede=1&lab=12) Morten Nielsen - IIB Instituto de Investigaciones Biotecnológicas
 
-
+[Laboratory for Research and Development in Scientific Computing (LIDeCC)](http://lidecc.cs.uns.edu.ar/) Ignacio Ponzoni - Universidad Nacional del Sur  
 
 ## Asociaciones
 
