@@ -130,7 +130,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Computational Biology in Colombia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000535) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en Colombia.
 
-## Grupos de investigación
+## Grupos de investigación  
 
 ## Asociaciones
 
