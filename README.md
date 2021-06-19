@@ -5,8 +5,33 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-neuro 🧠 ](https://github.com/GEJ1/Recursos-neuro)
 
+#Temas 
 
+* Cursos
+ * Principiantes
+ * Intermedio 
+ * Avanzados 
+ * Otros cursos
 
+* Bioinformática en Argentina
+ * Donde estudiar
+ * Grupos de Investigación
+ * Asociaciones
+
+* Bioinformática en Chile
+ * Donde estudiar
+ * Grupos de Investigación
+ * Asociaciones
+
+* Bioinformática en Colombia
+ * Donde estudiar
+ * Grupos de Investigación
+ * Asociaciones
+
+* Bioinformática en México
+ * Donde estudiar
+ * Grupos de Investigación
+ * Asociaciones
 
 # Cursos 
 
