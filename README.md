@@ -14,24 +14,24 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * Otros cursos
 
 * Bioinformática en Argentina
- * Donde estudiar
- * Grupos de Investigación
- * Asociaciones
+  * Donde estudiar
+  * Grupos de Investigación
+  * Asociaciones
 
 * Bioinformática en Chile
- * Donde estudiar
- * Grupos de Investigación
- * Asociaciones
+  * Donde estudiar
+  * Grupos de Investigación 
+  * Asociaciones
 
 * Bioinformática en Colombia
- * Donde estudiar
- * Grupos de Investigación
- * Asociaciones
+  * Donde estudiar
+  * Grupos de Investigación
+  * Asociaciones
 
 * Bioinformática en México
- * Donde estudiar
- * Grupos de Investigación
- * Asociaciones
+  * Donde estudiar
+  * Grupos de Investigación
+  * Asociaciones
 
 # Cursos 
 
