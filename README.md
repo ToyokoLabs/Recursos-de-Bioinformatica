@@ -8,10 +8,10 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 # Temas 
 
 * Cursos
- * Principiantes
- * Intermedio 
- * Avanzados 
- * Otros cursos
+  * Principiantes
+  * Intermedio 
+  * Avanzados 
+  * Otros cursos
 
 * Bioinformática en Argentina
  * Donde estudiar
