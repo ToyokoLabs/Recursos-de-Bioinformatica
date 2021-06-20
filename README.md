@@ -10,11 +10,11 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 * [Cursos](#Cursos)
   * [Principiantes](#Principiantes)
   * [Intermedio](#Intermedio) 
-  * [Avanzados](#Avanzados) 
-  * [Otros cursos](#Otros cursos)
+  * [Avanzado](#Avanzado) 
+  * [Otros cursos](#Otros-cursos)
 
-* [Bioinformática en Argentina](#Bioinformática en Argentina)
-  * [Donde estudiar](#Donde)
+* [Bioinformática en Argentina](#Bioinformática-en-Argentina)
+  * [Donde estudiar](#Donde-estudiar)
   * [Grupos de Investigación](#Grupos de Investigación)
   * [Asociaciones](#Asociaciones)
 
