@@ -14,7 +14,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Otros cursos](#Otros cursos)
 
 * [Bioinformática en Argentina](#Bioinformática en Argentina)
-  * [Donde estudiar](#Donde estudiar)
+  * [Donde estudiar](#Donde)
   * [Grupos de Investigación](#Grupos de Investigación)
   * [Asociaciones](#Asociaciones)
 
