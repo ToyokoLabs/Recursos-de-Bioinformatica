@@ -8,30 +8,30 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 # Temas 
 
 * [Cursos](#Cursos)
-  * Principiantes
-  * Intermedio 
-  * Avanzados 
-  * Otros cursos
+  * [Principiantes](#Principiantes)
+  * [Intermedio](#Intermedio) 
+  * [Avanzados](#Avanzados) 
+  * [Otros cursos](#Otros cursos)
 
-* Bioinformática en Argentina
-  * Donde estudiar
-  * Grupos de Investigación
-  * Asociaciones
+* [Bioinformática en Argentina](#Bioinformática en Argentina)
+  * [Donde estudiar](#Donde estudiar)
+  * [Grupos de Investigación](#Grupos de Investigación)
+  * [Asociaciones](#Asociaciones)
 
-* Bioinformática en Chile
-  * Donde estudiar
-  * Grupos de Investigación 
-  * Asociaciones
+* [Bioinformática en Chile](#Bioinformática en Chile)
+  * [Donde estudiar](#Donde estudiar)
+  * [Grupos de Investigación](#Grupos de Investigación) 
+  * [Asociaciones](#Asociaciones)
 
-* Bioinformática en Colombia
-  * Donde estudiar
-  * Grupos de Investigación
-  * Asociaciones
+* [Bioinformática en Colombia](#Bioinformática en Colombia)
+  * [Donde estudiar](#Donde estudiar)
+  * [Grupos de Investigación](#Grupos de Investigación)
+  * [Asociaciones](#Asociaciones)
 
-* Bioinformática en México
-  * Donde estudiar
-  * Grupos de Investigación
-  * Asociaciones
+* [Bioinformática en México](#Bioinformática en México)
+  * [Donde estudiar](#Donde estudiar)
+  * [Grupos de Investigación](#Grupos de Investigación)
+  * [Asociaciones](#Asociaciones)
 
 # Cursos 
 
