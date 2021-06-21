@@ -116,6 +116,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Laboratory for Research and Development in Scientific Computing (LIDeCC)](http://lidecc.cs.uns.edu.ar/) Ignacio Ponzoni - Universidad Nacional del Sur  
 
+[Bioinformatics & Machine Learning](https://sinc.unl.edu.ar/grants/bioinformatics-machine-learning/) Georgina Stegmayer - sinc(i) - Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional 
+
 ## Asociaciones
 
 [Asociación Argentina de Bioinformática y Biología Computacional](http://a2b2c.org.ar/)
