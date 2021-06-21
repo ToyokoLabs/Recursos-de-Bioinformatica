@@ -35,6 +35,12 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
+* [Bioinformática en Perú](#Bioinformática-en-Perú)
+  * [Donde estudiar](#Donde-estudiar)
+  * [Grupos de Investigación](#Grupos-de-Investigación)
+  * [Asociaciones](#Asociaciones)
+
+
 # Cursos 
 
 ## Principiantes
@@ -154,6 +160,13 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Comunidad de Desarrolladores de Software en Bioinformática (CDSB)](https://comunidadbioinfo.github.io/es/#about)
 
+# Bioinformática en Perú
+
+## Grupos de investigación 
+
+## Asociaciones
+
+[Sociedad Peruana de Bioinformática](https://bioinformatica.pe/)
 
 
 This work is licensed under a
