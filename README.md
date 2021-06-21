@@ -1,7 +1,7 @@
 # Recursos de Bioinformática  :dna: :computer:
 Una lista de recursos para Bioinformática con contenido en español y en inglés. 
 
-Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella ⭐ 
+Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella ⭐ Y si queres agregar más recursos podés hacer un pull request. 
 
 Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-neuro 🧠 ](https://github.com/GEJ1/Recursos-neuro)
 
@@ -12,6 +12,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Intermedio](#Intermedio) 
   * [Avanzado](#Avanzado) 
   * [Otros cursos](#Otros-cursos)
+
+* [Herramientas](#Herramientas)
 
 * [Bioinformática en Argentina](#Bioinformática-en-Argentina)
   * [Donde estudiar](#Donde-estudiar)
@@ -72,6 +74,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) Tiene una prueba gratis (free trail) por 7 días. En inglés, subtitulos en español. 
 
 [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) En inglés, subtitulos en español.
+
+# Herramientas
 
 # Bioinformática en Argentina
 
