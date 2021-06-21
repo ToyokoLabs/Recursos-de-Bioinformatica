@@ -15,22 +15,22 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 * [Bioinformática en Argentina](#Bioinformática-en-Argentina)
   * [Donde estudiar](#Donde-estudiar)
-  * [Grupos de Investigación](#Grupos de Investigación)
+  * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
-* [Bioinformática en Chile](#Bioinformática en Chile)
-  * [Donde estudiar](#Donde estudiar)
-  * [Grupos de Investigación](#Grupos de Investigación) 
+* [Bioinformática en Chile](#Bioinformática-en-Chile)
+  * [Donde estudiar](#Donde-estudiar)
+  * [Grupos de Investigación](#Grupos-de-Investigación) 
   * [Asociaciones](#Asociaciones)
 
-* [Bioinformática en Colombia](#Bioinformática en Colombia)
-  * [Donde estudiar](#Donde estudiar)
-  * [Grupos de Investigación](#Grupos de Investigación)
+* [Bioinformática en Colombia](#Bioinformática-en-Colombia)
+  * [Donde estudiar](#Donde-estudiar)
+  * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
-* [Bioinformática en México](#Bioinformática en México)
-  * [Donde estudiar](#Donde estudiar)
-  * [Grupos de Investigación](#Grupos de Investigación)
+* [Bioinformática en México](#Bioinformática-en-México)
+  * [Donde estudiar](#Donde-estudiar)
+  * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
 # Cursos 
@@ -118,7 +118,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [RSG-Argentina](https://rsg-argentina.netlify.app/) Grupo de Estudiantes de Bioinformática y Biología Computacional de Argentina 
 
-# Chile
+# Bioinformática en Chile
 
 ## Grupos de investigación 
 
@@ -126,7 +126,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Agrupación Chilena de Bioinformática - RSG Chile](http://rsg-chile.iscbsc.org/?fbclid=IwAR3IH2vTpGmAVMJhl2gtlChn2YS1X9q12ZHiRdA4a4ujJdcFXXERoGPL588)
 
-# Colombia
+# Bioinformática en Colombia
 
 [Computational Biology in Colombia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000535) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en Colombia.
 
@@ -136,7 +136,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Grupo de estudiantes en Bioinformática y Biología Computacional de Colombia](http://rsg-colombia.iscbsc.org/)
 
-# México 
+# Bioinformática en México 
 
 [Bioinformatics in Mexico: A diagnostic from the academic perspective and recommendations for a public policy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243531#references) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en México.
 
