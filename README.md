@@ -95,11 +95,15 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Bioconda](https://github.com/bioconda) Bioconda es un canal para el manejador de paquetes Conda especializado en software bioinformático. [Web](https://bioconda.github.io/)
 
-Biopython
-BioJulia
-RustBio
-Seq-An
-(Poly)merasa
+[Biopython](https://github.com/biopython/biopython) Herramientas de Python para bioinformática. [Web](https://biopython.org/)
+
+[BioJulia](https://github.com/BioJulia) La infraestructura bioinformática para el lenguaje de programación Julia. [Web](https://biojulia.net/)
+
+[Rust-Bio](https://github.com/rust-bio/rust-bio) This library provides Rust implementations of algorithms and data structures useful for bioinformatics.
+
+[SeqAn3](https://github.com/seqan/seqan3) Template library para el análisis de las secuencias biológicas.
+
+[(Poly)merasa](https://github.com/TimothyStiles/poly) Poly es un paquete de Go para organismos ingenierizados.
 
 # Bioinformática en Argentina
 
