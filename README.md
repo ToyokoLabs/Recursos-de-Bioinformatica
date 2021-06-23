@@ -107,7 +107,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [(Poly)merasa](https://github.com/TimothyStiles/poly) Poly es un paquete de Go para organismos ingenierizados.
 
-# Herramientas para Next Generation Sequencing
+## Herramientas para Next Generation Sequencing
 
 
 
