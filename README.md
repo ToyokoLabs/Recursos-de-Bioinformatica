@@ -40,6 +40,12 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
+* [Bioinformática en España](#Bioinformática en España)
+  * [Donde estudiar](#Donde-estudiar)
+  * [Grupos de Investigación](#Grupos-de-Investigación)
+  * [Asociaciones](#Asociaciones)
+
+
 
 # Cursos 
 
@@ -167,6 +173,14 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 ## Asociaciones
 
 [Sociedad Peruana de Bioinformática](https://bioinformatica.pe/)
+
+# Bioinformática en España
+
+## Grupos de investigación 
+
+## Asociaciones
+
+[BioInformaticsGRX (RSG Spain Granada)](https://bioinformaticsgrx.es/) Comunidad granadina para el estudio y el desarrollo de la bioinformática. ISCB-RSG España Nodo. 
 
 
 This work is licensed under a
