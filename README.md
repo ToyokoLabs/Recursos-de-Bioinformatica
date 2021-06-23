@@ -7,13 +7,13 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # Temas 
 
-* :mortar_board:[Cursos](#Cursos)
+* [Cursos](#Cursos)
   * [Principiantes](#Principiantes)
   * [Intermedio](#Intermedio) 
   * [Avanzado](#Avanzado) 
   * [Otros cursos](#Otros-cursos)
 
-* :toolbox: [Herramientas](#Herramientas)
+* [Herramientas](#Herramientas)
   * [Gestores de paquetes y librerias](#Gestores-de-paquetes-y-librerias)
   * [Herramientas para Next Generation Sequencing](#Herramientas-para-Next-Generation-Sequencing)
 
