@@ -14,7 +14,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Otros cursos](#Otros-cursos)
 
 * [Herramientas](#Herramientas)
-  * [Gestores de paquetes](Gestores-de-paquetes)
+  * [Gestores de paquetes](#Gestores-de-paquetes)
 
 * [Bioinformática en Argentina](#Bioinformática-en-Argentina)
   * [Donde estudiar](#Donde-estudiar)
