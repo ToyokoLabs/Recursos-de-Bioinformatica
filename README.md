@@ -15,6 +15,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 * [Herramientas](#Herramientas)
   * [Gestores de paquetes y librerias](#Gestores-de-paquetes-y-librerias)
+  * [Herramientas para Next Generation Sequencing](#Herramientas-para-Next-Generation-Sequencing)
 
 * [Bioinformática en Argentina](#Bioinformática-en-Argentina)
   * [Donde estudiar](#Donde-estudiar)
@@ -105,6 +106,11 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 [SeqAn3](https://github.com/seqan/seqan3) Template library para el análisis de las secuencias biológicas.
 
 [(Poly)merasa](https://github.com/TimothyStiles/poly) Poly es un paquete de Go para organismos ingenierizados.
+
+# Herramientas para Next Generation Sequencing
+
+
+
 
 # Bioinformática en Argentina
 
