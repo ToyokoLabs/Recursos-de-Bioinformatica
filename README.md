@@ -14,7 +14,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Otros cursos](#Otros-cursos)
 
 * [Herramientas](#Herramientas)
-  * [Gestores de paquetes](#Gestores-de-paquetes)
+  * [Gestores de paquetes y librerias](#Gestores-de-paquetes-y-librerias)
 
 * [Bioinformática en Argentina](#Bioinformática-en-Argentina)
   * [Donde estudiar](#Donde-estudiar)
@@ -90,7 +90,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # Herramientas
 
-## Gestores de paquetes
+## Gestores de paquetes y librerias
 
 [Bioconductor](https://github.com/Bioconductor) Sofware para el análisis de la información genómica de high-throughput [Web](https://www.bioconductor.org/)
 
