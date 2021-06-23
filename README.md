@@ -89,6 +89,18 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # Herramientas
 
+## Gestores de paquetes
+
+[Bioconductor](https://github.com/Bioconductor) Sofware para el análisis de la información genómica de high-throughput [Web](https://www.bioconductor.org/)
+
+[Bioconda](https://github.com/bioconda) Bioconda es un canal para el manejador de paquetes Conda especializado en software bioinformático. [Web](https://bioconda.github.io/)
+
+Biopython
+BioJulia
+RustBio
+Seq-An
+(Poly)merasa
+
 # Bioinformática en Argentina
 
 [Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en la Argentina. 
