@@ -109,8 +109,13 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 ## Herramientas para Next Generation Sequencing
 
+### Procesamiento de secuencias 
 
+[AfterQC](https://github.com/OpenGene/AfterQC) Filtrado automático, trimming, remover errores y control de calidad para fastq data.
 
+[FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) Control de calidad para high throughput sequence data.
+
+[MultiQC](https://multiqc.info/) Los resultados de los análisis bioinformáticos de muchas muestras en un solo reporte.
 
 # Bioinformática en Argentina
 
