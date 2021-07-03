@@ -47,6 +47,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
+* [Algunos videos](#Algunos-videos) 
+
 
 
 # Cursos 
@@ -88,6 +90,14 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r) Tiene una prueba gratis (free trail) por 7 días. En inglés, subtitulos en español. 
 
 [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) En inglés, subtitulos en español.
+
+## Algunos videos
+
+[Introducción a la bioinformática: ¿por qué es importante?](https://www.youtube.com/watch?v=m7kJ_OmM9tM&t=47s) Intro muy básica. 
+
+[Diseño de primers y análisis de secuenciamiento de genes](https://www.youtube.com/watch?v=9xftWEK3_9w&list=RDQMdgDhq_kz9pM&start_radio=1)
+
+[Ciclo de Seminarios de la A2B2C](https://www.youtube.com/playlist?list=PLFc5yT135p3fR0WwJrBYfcDMuXrvozKaa) 
 
 # Herramientas
 
