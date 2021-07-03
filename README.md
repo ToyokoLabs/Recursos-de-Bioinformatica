@@ -12,6 +12,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Intermedio](#Intermedio) 
   * [Avanzado](#Avanzado) 
   * [Otros cursos](#Otros-cursos)
+  * [Algunos videos](#Algunos-videos) 
 
 * [Herramientas](#Herramientas)
   * [Gestores de paquetes y librerias](#Gestores-de-paquetes-y-librerias)
@@ -46,8 +47,6 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Donde estudiar](#Donde-estudiar)
   * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
-
-* [Algunos videos](#Algunos-videos) 
 
 
 
