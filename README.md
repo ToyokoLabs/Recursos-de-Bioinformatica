@@ -163,9 +163,11 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Immunological bioinformatics – Prediction of host pathogen interactions](http://www.iib.unsam.edu.ar/labs.php?sede=1&lab=12) Morten Nielsen - IIB Instituto de Investigaciones Biotecnológicas
 
-[Laboratory for Research and Development in Scientific Computing (LIDeCC)](http://lidecc.cs.uns.edu.ar/) Ignacio Ponzoni - Universidad Nacional del Sur  
+[Grupo de Investigación en Bioinformática y Quimioinformática (BioChemTICs)](http://icic.conicet.gov.ar/biochemtics-es/) Ignacio Ponzoni - Universidad Nacional del Sur  
 
 [Bioinformatics & Machine Learning](https://sinc.unl.edu.ar/grants/bioinformatics-machine-learning/) Georgina Stegmayer - sinc(i) - Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional 
+
+[BIOINFORMÁTICA Y AGROINFORMÁTICA](https://www.cifasis-conicet.gov.ar/es/investigacion/2) Elizabeth Tapia - CIFASIS - Centro Franco Argentino de Ciencias de la Información y de Sistemas 
 
 ## Asociaciones
 
