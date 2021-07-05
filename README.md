@@ -193,6 +193,24 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Grupo de estudiantes en Bioinformática y Biología Computacional de Colombia](http://rsg-colombia.iscbsc.org/)
 
+# Bioinformática en Ecuador
+
+## Grupos de investigación 
+
+## Asociaciones
+
+[Regional Student Group Ecuador (RSG Ecuador)](https://www.instagram.com/rsgecdr/) 
+
+[Sociedad Ecuatoriana De Biotecnología, Biomedicina Y Bioinformática](https://www.facebook.com/sociedadecuatorianadebiotecbiomedbioinformatica/)
+
+# Bioinformática en España
+
+## Grupos de investigación 
+
+## Asociaciones
+
+[BioInformaticsGRX (RSG Spain Granada)](https://bioinformaticsgrx.es/) Comunidad granadina para el estudio y el desarrollo de la bioinformática. ISCB-RSG España Nodo. 
+
 # Bioinformática en México 
 
 [Bioinformatics in Mexico: A diagnostic from the academic perspective and recommendations for a public policy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243531#references) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en México.
@@ -213,13 +231,6 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Sociedad Peruana de Bioinformática](https://bioinformatica.pe/)
 
-# Bioinformática en España
-
-## Grupos de investigación 
-
-## Asociaciones
-
-[BioInformaticsGRX (RSG Spain Granada)](https://bioinformaticsgrx.es/) Comunidad granadina para el estudio y el desarrollo de la bioinformática. ISCB-RSG España Nodo. 
 
 
 
