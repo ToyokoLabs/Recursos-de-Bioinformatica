@@ -130,7 +130,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Computational Biology in Argentina ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030257) Publicación realizada en Plos Computational Biology Journal sobre la situación de la Bioinformática y la Biología computacional en la Argentina. 
 
-[Biología computacional en Argentina](http://www.bioinformaticos.com.ar/biologia-computacional-en-argentina/) (Versión traducida del paper original)
+[Biología computacional en Argentina](http://www.bioinformaticos.com.ar/biologia-computacional-en-argentina/) (Versión traducida del paper original Computational Biology in Argentina)
 
 
 ## Donde estudiar? 
@@ -174,6 +174,15 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 [Asociación Argentina de Bioinformática y Biología Computacional](http://a2b2c.org.ar/)
 
 [RSG-Argentina](https://rsg-argentina.netlify.app/) Grupo de Estudiantes de Bioinformática y Biología Computacional de Argentina 
+
+# Bioinformática en Bolivia
+
+## Grupos de investigación 
+
+[Centro Nacional de Computación avanzada en Bioinformática y Genómica ((CnCaBo))](http://www.cncabo.umsa.bo/index.php/es/) Facultad de Cs. Puras y Naturales (FCPN) y el Departamento de Tecnologías de Información y Comunicación (DTIC) de la Universidad Mayor de San Andrés.
+
+## Asociaciones
+
 
 # Bioinformática en Chile
 
@@ -231,6 +240,13 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Sociedad Peruana de Bioinformática](https://bioinformatica.pe/)
 
+# Bioinformática en Perú
+
+## Grupos de investigación 
+
+## Asociaciones
+
+[RSG Venezuela Estudiantes de Bioinformática y Biología Computacional de Venezuela](https://www.instagram.com/rsg.ve/)
 
 
 
