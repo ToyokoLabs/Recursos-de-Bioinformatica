@@ -202,6 +202,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Grupo de estudiantes en Bioinformática y Biología Computacional de Colombia](http://rsg-colombia.iscbsc.org/)
 
+[Sociedad Colombiana de Bioinformatica y Biología Computacional (SC2B2)](http://www.sc2b2.org/)
+
 # Bioinformática en Ecuador
 
 ## Grupos de investigación 
