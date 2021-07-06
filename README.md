@@ -232,6 +232,15 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Comunidad de Desarrolladores de Software en Bioinformática (CDSB)](https://comunidadbioinfo.github.io/es/#about)
 
+# Bioinformática en Paraguay
+
+## Grupos de investigación 
+
+[Laboratorio de Bioinformática, Núcleo de Investigación y Desarrollo Tecnológico (NIDTEC)](https://gbioinformatica.wordpress.com/)
+
+## Asociaciones
+
+
 # Bioinformática en Perú
 
 ## Grupos de investigación 
@@ -240,7 +249,16 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Sociedad Peruana de Bioinformática](https://bioinformatica.pe/)
 
-# Bioinformática en Perú
+# Bioinformática en Uruguay
+
+## Grupos de investigación 
+
+[Unidad de Bioinformática](http://pasteur.uy/investigacion/unidades/bioinformatica/) Hugo Naya - Institut Pasteur de Montevideo (IP Montevideo)
+
+## Asociaciones
+
+
+# Bioinformática en Venezuela
 
 ## Grupos de investigación 
 
