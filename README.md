@@ -19,6 +19,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Herramientas para Next Generation Sequencing](#Herramientas-para-Next-Generation-Sequencing)
   * [Herramientas para proteinas](#Herramientas-para-proteinas)
 
+* [Libros](#Libros)
 
 * [Bioinformática en Argentina](#Bioinformática-en-Argentina)
   * [Donde estudiar](#Donde-estudiar)
@@ -99,6 +100,11 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 [Diseño de primers y análisis de secuenciamiento de genes](https://www.youtube.com/watch?v=9xftWEK3_9w&list=RDQMdgDhq_kz9pM&start_radio=1)
 
 [Ciclo de Seminarios de la A2B2C](https://www.youtube.com/playlist?list=PLFc5yT135p3fR0WwJrBYfcDMuXrvozKaa) 
+
+# Libros
+
+[Python para Bioinformática](https://www.py3.us/es) Una sólida introducción a la programación con Python, muy accesible para los lectores sin experiencia previa en programación. Python for Bioinformatics está pensado para biólogos, bioinformáticos y otros profesionales de las ciencias de la vida.
+
 
 # Herramientas
 
