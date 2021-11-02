@@ -202,6 +202,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 ## Asociaciones
 
+[Sociedad Chilena de Bioinformática](https://www.scbioinfo.cl/)
+
 [Agrupación Chilena de Bioinformática - RSG Chile](http://rsg-chile.iscbsc.org/?fbclid=IwAR3IH2vTpGmAVMJhl2gtlChn2YS1X9q12ZHiRdA4a4ujJdcFXXERoGPL588)
 
 # Bioinformática en Colombia
