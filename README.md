@@ -134,6 +134,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [MultiQC](https://multiqc.info/) Los resultados de los análisis bioinformáticos de muchas muestras en un solo reporte.
 
+[MaSuRCA](https://github.com/alekseyzimin/masurca#masurca-genome-assembly-and-analysis-toolkit-quick-start-guide) (Maryland Super Read Cabog Assembler) Genome assembler. Desde la versión 3.2.1 es compatible con el ensamblaje híbrido de lecturas cortas de Illumina y long high error PacBio/MinION data.
+
 ## Herramientas para proteinas
 
 [ColabFold](https://github.com/sokrypton/ColabFold) ColabFold hace que la predicción de la estructura de las proteínas sea accesible, permitiendo incorporar las características novedosas, y todo el potencial, de [AlphaFold2](https://deepmind.com/research/case-studies/alphafold) y [RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold).
