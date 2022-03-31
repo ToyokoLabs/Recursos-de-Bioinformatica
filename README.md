@@ -237,6 +237,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 ## Asociaciones
 
 [BioInformaticsGRX (RSG Spain Granada)](https://bioinformaticsgrx.es/) Comunidad granadina para el estudio y el desarrollo de la bioinformática. 
+
 [ISCB-RSG España Nodo](https://www.rsg-spain.iscbsc.org/) ISCB Regional Student Group España
 
 # Bioinformática en México 
