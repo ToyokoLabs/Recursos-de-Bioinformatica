@@ -95,11 +95,15 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 ## Algunos videos
 
-[Introducción a la bioinformática: ¿por qué es importante?](https://www.youtube.com/watch?v=m7kJ_OmM9tM&t=47s) Intro muy básica. 
+[Introducción a la bioinformática: ¿por qué es importante?](https://www.youtube.com/watch?v=m7kJ_OmM9tM&t=47s) Intro muy básica.
 
 [Diseño de primers y análisis de secuenciamiento de genes](https://www.youtube.com/watch?v=9xftWEK3_9w&list=RDQMdgDhq_kz9pM&start_radio=1)
 
-[Ciclo de Seminarios de la A2B2C](https://www.youtube.com/playlist?list=PLFc5yT135p3fR0WwJrBYfcDMuXrvozKaa) 
+[Ciclo de Seminarios de la A2B2C](https://www.youtube.com/playlist?list=PLFc5yT135p3fR0WwJrBYfcDMuXrvozKaa)
+
+[La Bioinformática en países hispanohablantes](https://www.youtube.com/watch?v=wuBXBEugq0g&ab_channel=SEH2Bioinfo)
+
+[Bioinformática y sus aplicaciones a la ciencia](https://www.youtube.com/watch?v=tFrxUTCChPg&ab_channel=RealidadVirtualyBioinform%C3%A1tica)
 
 # Libros
 
