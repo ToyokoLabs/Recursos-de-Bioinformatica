@@ -169,6 +169,9 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Diplomatura en Bioinformática](https://www.favaloro.edu.ar/informacion-eftp/ftpBIOIN_diplomatura-en-bioinformatica/)
 * UNNOVA
   * [Maestría en Bioinformática y Biología de Sistemas](http://www.unnoba.edu.ar/posgrado/carreras/maestrias/maestria-en-bioinformatica-y-biologia-de-sistemas-2018/)
+* Universidad Nacional de Rosario
+  * [Especialización en Bioinformática](https://fcagr.unr.edu.ar/bioinformatica/)
+
 
 ## Grupos de investigación 
 
