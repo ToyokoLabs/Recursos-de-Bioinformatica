@@ -109,6 +109,8 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Python para Bioinformática](https://www.py3.us/es) Una sólida introducción a la programación con Python, muy accesible para los lectores sin experiencia previa en programación. Python for Bioinformatics está pensado para biólogos, bioinformáticos y otros profesionales de las ciencias de la vida.
 
+[Python para Ciencia y Tecnología](https://libropython.science/) Un libro pensado para quienes trabajan en investigación, docencia o desarrollo tecnológico, y busca acercar Python al mundo científico.
+
 [Vida.exe, desafíos y aventuras de la bioinformática](https://fce.com.ar/tienda/ciencia-y-tecnologia/vida-exe/) En Vida.exe, un grupo de jóvenes científicas y científicos cuentan cómo la revolución tecnológica impactó en la biología, explican el pasado de ese extraño centauro que es la bioinformática y lo usan de excusa para dar cuenta de cómo se trabaja actualmente desde la ciencia para intentar descifrar los enigmas de la vida.
 
 # Herramientas
