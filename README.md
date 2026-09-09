@@ -113,6 +113,10 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [Vida.exe, desafíos y aventuras de la bioinformática](https://fce.com.ar/tienda/ciencia-y-tecnologia/vida-exe/) En Vida.exe, un grupo de jóvenes científicas y científicos cuentan cómo la revolución tecnológica impactó en la biología, explican el pasado de ese extraño centauro que es la bioinformática y lo usan de excusa para dar cuenta de cómo se trabaja actualmente desde la ciencia para intentar descifrar los enigmas de la vida.
 
+# Artículos interesantes
+
+[Bioinformática en español: ampliando la ciencia abierta, diversa y colaborativa a través del SEH2Bioinfo (https://zenodo.org/records/21838907) Un trabajo muy interesante donde analizan cómo el Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional convierte el español, tradicionalmente considerado una barrera en la ciencia internacional, en una herramienta de inclusión, colaboración y fortalecimiento de la comunidad hispanohablante de bioinformática y biología computacional.
+
 # Herramientas
 
 ## Gestores de paquetes y librerias
