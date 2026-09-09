@@ -117,7 +117,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 # Artículos interesantes
 
-[Bioinformática en español: ampliando la ciencia abierta, diversa y colaborativa a través del SEH2Bioinfo] (https://zenodo.org/records/21838907) Un trabajo muy interesante donde analizan cómo el Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional convierte el español, tradicionalmente considerado una barrera en la ciencia internacional, en una herramienta de inclusión, colaboración y fortalecimiento de la comunidad hispanohablante de bioinformática y biología computacional.
+[Bioinformática en español: ampliando la ciencia abierta, diversa y colaborativa a través del SEH2Bioinf](https://zenodo.org/records/21838907) Un trabajo muy interesante donde analizan cómo el Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional convierte el español, tradicionalmente considerado una barrera en la ciencia internacional, en una herramienta de inclusión, colaboración y fortalecimiento de la comunidad hispanohablante de bioinformática y biología computacional.
 
 # Herramientas
 
