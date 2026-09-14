@@ -53,7 +53,7 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
-
+* [Listas para recibir info](#Listas_para_recibir_info)
 
 # Cursos 
 
@@ -304,7 +304,9 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [RSG Venezuela Estudiantes de Bioinformática y Biología Computacional de Venezuela](https://www.instagram.com/rsg.ve/)
 
+# Listas para recibir info
 
+[bioinformatica-es](bioinformatica-es@googlegroups.com)
 
 
 This work is licensed under a
