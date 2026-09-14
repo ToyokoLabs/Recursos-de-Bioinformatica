@@ -48,13 +48,12 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
   * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
-* [Listas para recibir info](#Listas_para_recibir_info)
-
 * [Bioinformática en España](#Bioinformática-en-España)
   * [Donde estudiar](#Donde-estudiar)
   * [Grupos de Investigación](#Grupos-de-Investigación)
   * [Asociaciones](#Asociaciones)
 
+* [Listas para recibir info](#Listas-para-recibir-info)
 
 
 # Cursos 
