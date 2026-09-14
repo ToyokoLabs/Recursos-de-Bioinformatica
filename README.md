@@ -138,6 +138,11 @@ Si te dedicas o estas interesado en las Neurociencias visita el repo [Recursos-n
 
 [(Poly)merasa](https://github.com/TimothyStiles/poly) Poly es un paquete de Go para organismos ingenierizados.
 
+[Learn R for free](https://www.learnr4free.com/) Todo tipo de recursos (libros, videos, sitios web interactivos, artículos) para aprender R. 
+
+[Iniciación en R para científicos - Miguel Rojas](https://github.com/itsmiguelrojas/IntroRScientist) Intro muy completa a R desde un vistazo a la interfaz de RStudio hasta pruebas de hipótesis, pasando por graficación y estructura de datos. 
+
+
 ## Herramientas para Next Generation Sequencing
 
 ### Procesamiento de secuencias 
